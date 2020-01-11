@@ -40,4 +40,4 @@ if __name__ == '__main__':
                 input_pdf=f"{root_path}/{f_name}",
                 output=f"{converted_path}/{f_name}",
                 watermark=template)
-            move_file(f"{root_path}/{f_name}", original_path)
+            move_file(f"{root_path}/{f_name}", f"{original_path}/{f_name}")
