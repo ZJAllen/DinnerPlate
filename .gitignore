@@ -1,3 +1,9 @@
+# Custom
+auth.py
+file_path.py
+*.vscode
+*.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
